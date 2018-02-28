@@ -1,2 +1,2 @@
 # DoublePlayerPacman
-Its a typical pacman game except for two players. 
+Its a typical pacman game except for two players. Whenever a player gets a tablet or circle object they gain the ability to eat the ghosts and the second player. If the first player suceeds in eating the second player, than the game is over. The other way is to win is for one player to have their pacman eat more ghosts than the other player. There is a time limit of 5 minutes and if they suceed in eating more ghostst than they win the game. 
